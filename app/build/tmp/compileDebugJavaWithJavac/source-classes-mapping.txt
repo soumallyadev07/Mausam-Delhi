@@ -1,0 +1,2 @@
+com/example/mausamdelhi/BuildConfig.java
+ com.example.mausamdelhi.BuildConfig
